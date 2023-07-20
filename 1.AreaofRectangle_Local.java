@@ -8,5 +8,6 @@ class AreaofRectangle_Local{
         int area=width*height;  
         
         System.out.println("Area of rectangle="+area);  
+        
      }  
 }
